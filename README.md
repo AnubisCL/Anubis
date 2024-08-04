@@ -5,9 +5,9 @@
 #### 前端：
 [![前端](https://skillicons.dev/icons?i=js,ts,html,css,npm,pnpm,yarn,vue,vite,webpack)](https://skillicons.dev)
 #### 后端：
-[![Java](https://skillicons.dev/icons?i=java,maven,spring,rabbitmq,mysql,mongodb,redis,elasticsearch)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,mongodb,elasticsearch,rabbitmq)](https://skillicons.dev)
 #### 部署 & 监控：
-[![部署&监控](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,grafana,prometheus)](https://skillicons.dev)
+[![部署&监控](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus)](https://skillicons.dev)
 #### 其他语言：
 [![其他语言](https://skillicons.dev/icons?i=py,lua,md)](https://skillicons.dev)
 
