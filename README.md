@@ -1,6 +1,13 @@
 ### 🧑🏻‍💻 My skills：
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,apple,docker,kubernetes,vim,sublime,lua,md,powershell,git,github,gitlab,stackoverflow,idea,pycharm,webstorm,vscode,postman,jenkins,nginx,grafana,prometheus,java,maven,mysql,spring,mongodb,redis,elasticsearch,rabbitmq,py,js,ts,html,css,npm,pnpm,yarn,vue,vite,webpack&perline=14)](https://skillicons.dev)
+[![系统](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
+[![工具](https://skillicons.dev/icons?i=vim,sublime,powershell,git,github,gitlab,stackoverflow)](https://skillicons.dev)
+[![编辑器](https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,postman)](https://skillicons.dev)
+[![脚本语言](https://skillicons.dev/icons?i=py,lua,md)](https://skillicons.dev)
+[![部署&监控](https://skillicons.dev/icons?i=docker,kubernetesjenkins,nginx,grafana,prometheus)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java,maven,spring,rabbitmq)](https://skillicons.dev)
+[![数据库](https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch)](https://skillicons.dev)
+[![前端](https://skillicons.dev/icons?i=js,ts,html,css,npm,pnpm,yarn,vue,vite,webpack)](https://skillicons.dev)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
